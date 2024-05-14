@@ -1,9 +1,16 @@
-<h>Discussion link: </h>
+<h1>Technology Stacks</h1>
+<h>Frontend:</h>
 <ul>
-  <li>
-    <a href="https://docs.google.com/spreadsheets/d/1w8GUj0pu5FNgmeGO1KYODkz2X5bLDVkiAIimmVITFNc/edit?usp=sharing">Use cases</a>
-  </li>
-  <li>
-    <a href="https://www.google.com">Database schemas</a>
-  </li>
+  <li>TypeScript</li>
+  <li>Library: React Native</li>
+  
 </ul>
+
+<br>
+<h>Backend:</h>
+<ul>
+  <li>TypeScript, Node.js</li>
+  <li>Framework: NestJS</li>
+  <li>ORM: Prisma</li>
+</ul>
+
